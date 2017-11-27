@@ -25,4 +25,4 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 generaci
 - Nuestra solución ofrece de manera directa y dinamica los filtros pertinentes para que el usuario pueda escoger los topicos a comparar dados en el menu lateral  y que pueda guardar dichos filtros en un nuevo dashboard dados en el botón que figura en la imagen, asi pueda acceder directamente a esta informacion pudiendo satisfacer su necesidad central.
 
 
-![image1](assets/img/newimage1.JPG)
+![image1](assets/img/newimage1.jpg)
